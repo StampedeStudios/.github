@@ -1,4 +1,7 @@
-<h1> Stampede Studios</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39314951/144038145-c47eff8c-b9df-41c6-98dd-9606c45a1574.png" width="256" title="stampede logo" />
+  <h1 align="center"> Stampede Studios&trade;</h1>
+</p>
 
 <p> The studios is born in the october 2020, composed by 4 starting members: Abramo, Gianfelice, Simone and Raffaele. </p>
 <p> Initially the team was composed by two developer, a 3D artist and a Game Designer. When the stuff to do increased exponentially each of us
