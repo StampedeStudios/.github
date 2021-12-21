@@ -14,7 +14,7 @@
 
 <p align="center">
   <a  href="https://github.com/StampedeStudios/.github/graphs/contributors">
-    <img src="https://contributors-img.web.app/image?repo=StampedeStudios/.github" alt="Simone, " />
+    <img src="https://contributors-img.web.app/image?repo=StampedeStudios/.github" alt="Simone, Gianfelice," />
   </a>
 </p>
 
