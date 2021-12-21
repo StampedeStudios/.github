@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/39314951/144038145-c47eff8c-b9df-41c6-98dd-9606c45a1574.png" width="256" title="stampede logo" />
-  <h1 align="center"> Stampede Studios&trade;</h1>
+  <h1 align="center"> Stampede Studios</h1>
 </p>
 
 <h3> The Lore </h3>
