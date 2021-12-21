@@ -9,6 +9,15 @@
 <p> After the first year of development, another crew member partecipated to the team: Ismaele. Ismaele became part of the team as a Sound Designer. 
   Today the team is composed by 5 people: two developer, two 3D artists and a sound designer.</p>
 
+<h3> The Team </h3>
+<p> Every team member has contributed to every Stampede Studios repository, reach them navigating the following resource! </p>
+
+<p align="center">
+  <a  href="https://github.com/StampedeStudios/.github/graphs/contributors">
+    <img src="https://contributors-img.web.app/image?repo=StampedeStudios/.github" alt="Simone, " />
+  </a>
+</p>
+
 <h3> A Story About Humans </h3>
 <p> The first and only game that the team is currently developing is <b>A Story About Humans</b>, a first person puzzle game. The game is developed
   with <i>Unreal Engine 4</i>, 3D models are made with <i>Blender</i> and all widgets and user interfaces are made in UE4 with the help of <i>Adobe Illustrator</i>.
