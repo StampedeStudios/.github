@@ -21,6 +21,10 @@
 
 <h3> The Games </h3>
 <h4> A Story About Humans </h4>
+<p align="left">
+  <a href="https://www.unrealengine.com/en-US/"> <img src="https://img.shields.io/badge/unreal%20engine-4.26-green" title="Unreal Engine 4" /> </a>
+  <a href="https://www.blender.org/"> <img src="https://img.shields.io/badge/blender-3.0-orange" title="Blender" /> </a>
+</p>
 <p> The first and only game that the team is currently developing is <b>A Story About Humans</b>, a first person puzzle game. The game is developed
   with <i>Unreal Engine 4</i>, 3D models are made with <i>Blender</i> and all widgets and user interfaces are made in UE4 with the help of <i>Adobe Illustrator</i>.
   
