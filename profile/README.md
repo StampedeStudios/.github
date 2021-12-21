@@ -11,13 +11,15 @@
   Today the team is composed by 5 people: two developer, two 3D artists and a sound designer.</p>
 
 <h3> The Team </h3>
-<p> Every team member has contributed to every Stampede Studios repository, reach them navigating the following resource! </p>
-
+<p> Every team member has contributed to every Stampede Studios repository, use the following links to reach their profiles! </p>
 <p align="center">
-  <a  href="https://github.com/StampedeStudios/.github/graphs/contributors">
-    <img src="https://contributors-img.web.app/image?repo=StampedeStudios/.github" alt="Simone, Gianfelice," />
-  </a>
+  <a href="https://github.com/simone-lungarella"> <img src="https://github.com/simone-lungarella.png" title="Simone" weight="128" height="128" /> </a>
+  <a href="https://github.com/Lincoln-Ab"> <img src="https://github.com/Lincoln-Ab.png" title="Abramo" weight="128" height="128" /> </a>
+  <a href="https://github.com/LungarellaRaffaele"> <img src="https://github.com/LungarellaRaffaele.png" title="Raffaele" weight="128" height="128" /> </a>
+  <a href="https://github.com/GianfeliceLNG"> <img src="https://github.com/GianfeliceLNG.png" title="Gianfelice" weight="128" height="128" /> </a>
+  <a href="https://github.com/IsmaeleLNG"> <img src="https://github.com/IsmaeleLNG.png" title="Ismaele" weight="128" height="128" /> </a>
 </p>
+
 
 <h3> The Games </h3>
 <h4> A Story About Humans </h4>
