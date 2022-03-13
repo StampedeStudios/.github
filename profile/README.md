@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/39314951/158058884-8764c262-e430-4ebd-9dec-90cec6f999d5.png" width="512" title="stampede logo" />
+  <img src="https://user-images.githubusercontent.com/39314951/158068553-e372c491-340f-4e2b-b809-2698d3ae0112.png" width="1024" title="stampede logo" />
 </p>
 
 <h3> The Lore </h3>
