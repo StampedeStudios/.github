@@ -42,6 +42,6 @@ StarKnight, playable on [itch.io](https://surveiior.itch.io/starknight), is a th
 ### Fruit Gladiators
 <a href="https://unity.com/"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" /> </a>
 
-[![Build and Deploy of Fruit Gladiators](https://github.com/StampedeStudios/GMTK-2023/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/StampedeStudios/GMTK-2023/actions/workflows/build-and-deploy.yml)
+[![Build and Deploy of Fruit Gladiators](https://github.com/StampedeStudios/FruitGlaidators/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/StampedeStudios/FruitGlaidators/actions/workflows/build-and-deploy.yml)
 
-Fruit Gladiators, playable on [itch.io](https://surveiior.itch.io/fruitgladiators), is a top-down puzzle game, inspired by the famous game **Snake** where you play as fruits instead of the snake. The game, submitted for the **GMTK2023** following the theme *Roles Reversed*, is developed with *Unity*, Assets are made with *Aseprite* and sounds are made with *Audacity*.
+Fruit Gladiators, playable on [itch.io](https://surveiior.itch.io/fruitgladiators), is a top-down puzzle game, inspired by the famous game **Snake** where you play as fruits instead of the snake. The game, submitted for the **GMTK2023** following the theme *Roles Reversed*, is developed with *Unity*, Assets are made with *Aseprite*, and sounds are made with *Audacity*.
