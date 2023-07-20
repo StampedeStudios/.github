@@ -3,9 +3,9 @@
 </p>
 
 ## The Lore
-The studio is born in the october 2020, composed by 4 starting members: Abramo, Gianfelice, Simone and Raffaele. Initially the team was composed by two developer, a 3D artist and a Game Designer. When the stuff to do increased exponentially, each of us covered a piece of game and level design and all decision about the design of the game was taken unanimously.
+The studio is born in October 2020, composed of 4 starting members: Abramo, Gianfelice, Simone, and Raffaele. Initially, the team was composed of two developers, a 3D artist, and a Game Designer. When the stuff to do increased exponentially, each of us covered a piece of game and level design, and all decision about the design of the game was taken unanimously.
 
-Today the team is composed by 4 people where only 2 are currently active. The team is focused in build mini-games using _Unity Engine_ and _Aseprite_ to improve internal know-how and skill-set.
+Today the team is composed of 4 people and only 2 are currently active. The team is focused in build mini-games using _Unity Engine_ and _Aseprite_ to improve internal know-how and skill set.
 
 ## The Team
 Every team member has contributed to every Stampede Studios repository, use the following links to reach their profiles!
@@ -21,12 +21,14 @@ Every team member has contributed to every Stampede Studios repository, use the 
 <a href="https://www.unrealengine.com/en-US/"> <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" title="Unreal Engine 4.23" /> </a>
 <a href="https://www.blender.org/"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" title="Blender" /> </a>
 
-The first published game, playable on [itch.io](https://surveiior.itch.io/on-the-spot), is a third person puzzle game. The game is developed
-  with _Unreal Engine 4.23_, 3D models are made with _Blender_ and all widgets and user interfaces are made in UE5 with the help of _Adobe Illustrator_.
+The first published game, submitted for the GMTK2023 following the theme _Roll of the Dice_, playable on [itch.io](https://surveiior.itch.io/on-the-spot), is a third-person puzzle game. The game is developed with _Unreal Engine 4.23_, 3D models are made with _Blender_, and all widgets and user interfaces are made in UE5 with the help of _Adobe Illustrator_.
   
 ### StarKnight!
 <a href="https://unity.com/"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" /> </a>
 
-StarKnight, playable on [itch.io](https://surveiior.itch.io/starknight), is a third person shooter game, retro-styled that make use of pixel art assets made by the team. The game is developed
-  with _Unity, Assets are made with _Aseprite_ and sound made with _Audacity_.
+StarKnight, playable on [itch.io](https://surveiior.itch.io/starknight), is a third-person shooter game, retro-styled that makes use of pixel art assets made by the team. The game is developed with _Unity, Assets are made with _Aseprite_ and sounds are made with _Audacity_.
   
+### Fruit Gladiators
+<a href="https://unity.com/"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" /> </a>
+
+Fruit Gladiators, playable on [itch.io](https://surveiior.itch.io/fruitgladiators), is a top-down puzzle game, inspired by the famous game **Snake** where you play as fruits instead of the snake. The game, submitted for the GMTK2023 following the theme _Roles Reversed_, is developed with _Unity, Assets are made with _Aseprite_ and sounds are made with _Audacity_.
