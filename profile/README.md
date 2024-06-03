@@ -19,7 +19,7 @@ Following all team member profiles, use the links to reach their profiles!
 <p align="center">
   <a href="https://github.com/simone-lungarella"> <img src="https://github.com/simone-lungarella.png" title="Simone" weight="128" height="128" /> </a>
   <a href="https://github.com/Lincoln-Ab"> <img src="https://github.com/Lincoln-Ab.png" title="Abramo" weight="128" height="128" /> </a>
-  <a href="https://github.com/RLungarella13"> <img src="https://github.com/RLungarella13.png" title="Raffaele" weight="128" height="128" /> </a>
+  <a href="https://github.com/RLungarella13"> <img src="https://github.com/lungarella-raffaele.png" title="Raffaele" weight="128" height="128" /> </a>
   <a href="https://github.com/GianfeliceLNG"> <img src="https://github.com/GianfeliceLNG.png" title="Gianfelice" weight="128" height="128" /> </a>
 </p>
 
