@@ -20,34 +20,31 @@ Following all team member profiles, use the links to reach their profiles!
 <p align="center">
   <a href="https://github.com/simone-lungarella"> <img src="https://github.com/simone-lungarella.png" title="Simone" weight="128" height="128" /> </a>
   <a href="https://github.com/Lincoln-Ab"> <img src="https://github.com/Lincoln-Ab.png" title="Abramo" weight="128" height="128" /> </a>
-  <a href="https://github.com/RLungarella13"> <img src="https://github.com/lungarella-raffaele.png" title="Raffaele" weight="128" height="128" /> </a>
+  <a href="https://github.com/lungarella-raffaele"> <img src="https://github.com/lungarella-raffaele.png" title="Raffaele" weight="128" height="128" /> </a>
   <a href="https://github.com/GianfeliceLNG"> <img src="https://github.com/GianfeliceLNG.png" title="Gianfelice" weight="128" height="128" /> </a>
 </p>
 
 ## The Games
 We worked on many projects but not as many have been deployed, the greater percentage of what we worked on was made to learn editors and try to gain the know-how to make games. Following, there is a short description for each deployed game.
 
-### On The Spot!
-<a href="https://www.unrealengine.com/en-US/"> <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" title="Unreal Engine 4.23" /> </a>
-<a href="https://www.blender.org/"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" title="Blender" /> </a>
-
-The first published game, submitted for the **GMTK2023** following the theme *Roll of the Dice*, playable on [itch.io](https://surveiior.itch.io/on-the-spot), is a third-person puzzle game. The game is developed with *Unreal Engine 4.23*, 3D models are made with *Blender*, and all widgets and user interfaces are made in *UE4* with the help of *Adobe Illustrator*.
   
-### StarKnight!
-<a href="https://unity.com/"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" /> </a>
+### Sum Zero ~ August 2024
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
 
-[![Build and Deploy of StarKnight](https://github.com/StampedeStudios/StartKnight/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/StampedeStudios/StartKnight/actions/workflows/build-and-deploy.yml)
+Puzzle game playable on [itch.io](https://stampede-studios.itch.io/doku-scale), inspired by **Sudoku**, submitted for the **GMTK2024** following the theme *Built to scale*, is developed with *Godot*. The goal of the game is to scale each slider to cover every tile till they all reach zero.
 
-StarKnight, playable on [itch.io](https://surveiior.itch.io/starknight), is a third-person shooter game, retro-styled that makes use of pixel art assets made by the team. The game is developed with *Unity*, Assets are made with *Aseprite* and sounds are made with *Audacity*.
-  
-### Fruit Gladiators
-<a href="https://unity.com/"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" /> </a>
-
-[![Build and Deploy of Fruit Gladiators](https://github.com/StampedeStudios/FruitGlaidators/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/StampedeStudios/FruitGlaidators/actions/workflows/build-and-deploy.yml)
+### Fruit Gladiators ~ July 2023
+[![Unity Engine](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 Fruit Gladiators, playable on [itch.io](https://surveiior.itch.io/fruitgladiators), is a top-down puzzle game, inspired by the famous game **Snake** where you play as fruits instead of the snake. The game, submitted for the **GMTK2023** following the theme *Roles Reversed*, is developed with *Unity*, Assets are made with *Aseprite*, and sounds are made with *Audacity*.
 
-### Doku Scale
-[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
+### StarKnight ~ June 2023
+[![Unity Engine](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
-Doku Scale, playable on [itch.io](https://stampede-studios.itch.io/doku-scale), is a puzzle game, inspired by **Sudoku**, submitted for the **GMTK2024** following the theme *Built to scale*, is developed with *Godot*. The goal of the game is to scale each slider to cover every tile till they all reach zero.
+Star Knight is a third-person shooter game. The demo is developed with *Unity* and is playable on [itch.io](https://surveiior.itch.io/starknight).
+A new and improved version is being developed with Godot Engine, check it out on [GitHub](https://github.com/StampedeStudios/star-knight).
+
+### On The Spot! ~ July 2022
+[![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/)[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
+
+The first published game, submitted for the **GMTK2023** following the theme *Roll of the Dice*, playable on [itch.io](https://surveiior.itch.io/on-the-spot), is a third-person puzzle game. The game is developed with *Unreal Engine 4.23*, 3D models are made with *Blender*, and all widgets and user interfaces are made in *UE4* with the help of *Adobe Illustrator*.
