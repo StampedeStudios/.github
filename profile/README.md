@@ -8,6 +8,7 @@
   - [On The Spot!](#on-the-spot)
   - [StarKnight!](#starknight)
   - [Fruit Gladiators](#fruit-gladiators)
+  - [Doku Scale](#doku-scale)
 
 ## The Lore
 The studio is born in October 2020, composed of 4 starting members: Abramo, Gianfelice, Simone, and Raffaele. Initially, the team was composed of two developers, a 3D artist, and a Game Designer. When the stuff to do increased exponentially, each of us covered a piece of game and level design, and all decision about the design of the game was taken unanimously.
