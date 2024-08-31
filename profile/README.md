@@ -45,3 +45,8 @@ StarKnight, playable on [itch.io](https://surveiior.itch.io/starknight), is a th
 [![Build and Deploy of Fruit Gladiators](https://github.com/StampedeStudios/FruitGlaidators/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/StampedeStudios/FruitGlaidators/actions/workflows/build-and-deploy.yml)
 
 Fruit Gladiators, playable on [itch.io](https://surveiior.itch.io/fruitgladiators), is a top-down puzzle game, inspired by the famous game **Snake** where you play as fruits instead of the snake. The game, submitted for the **GMTK2023** following the theme *Roles Reversed*, is developed with *Unity*, Assets are made with *Aseprite*, and sounds are made with *Audacity*.
+
+### Doku Scale
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
+
+Doku Scale, playable on [itch.io](https://stampede-studios.itch.io/doku-scale), is a puzzle game, inspired by **Sudoku**, submitted for the **GMTK2024** following the theme *Built to scale*, is developed with *Godot*. The goal of the game is to scale each slider to cover every tile till they all reach zero.
